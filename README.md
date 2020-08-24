@@ -1,1 +1,3 @@
-# valaxy_files
+# maven-project
+
+Simple Maven Project
